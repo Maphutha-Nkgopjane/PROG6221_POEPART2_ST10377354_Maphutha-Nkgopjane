@@ -14,3 +14,11 @@ C:\Users\lab_services_student\Source\Repos\ST10377354_PROG6221_PART1\Cybersecuri
 C:\Users\lab_services_student\Source\Repos\ST10377354_PROG6221_PART1\Cybersecuritychatbot\obj\Debug\Cybersecuritychatbot.csproj.CoreCompileInputs.cache
 C:\Users\lab_services_student\Source\Repos\ST10377354_PROG6221_PART1\Cybersecuritychatbot\obj\Debug\Cybersecuritychatbot.exe
 C:\Users\lab_services_student\Source\Repos\ST10377354_PROG6221_PART1\Cybersecuritychatbot\obj\Debug\Cybersecuritychatbot.pdb
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\bin\Debug\Audio\Greetings.wav
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\bin\Debug\Cybersecuritychatbot.exe.config
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\bin\Debug\Cybersecuritychatbot.exe
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\bin\Debug\Cybersecuritychatbot.pdb
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\obj\Debug\Cybersecuritychatbot.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\obj\Debug\Cybersecuritychatbot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\obj\Debug\Cybersecuritychatbot.exe
+C:\Users\lab_services_student\Desktop\PROG6221_POEPART2_ST10377354_Maphutha-Nkgopjane\obj\Debug\Cybersecuritychatbot.pdb
